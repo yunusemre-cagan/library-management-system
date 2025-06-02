@@ -1,0 +1,550 @@
+[ {
+  "userId" : "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+  "firstName" : "John",
+  "lastName" : "Smith",
+  "phoneNumber" : "+12025551234",
+  "email" : "john.smith@example.com",
+  "address" : "New York, USA",
+  "registrationDate" : "02-06-2025",
+  "status" : "ACTIVE"
+}, {
+  "userId" : "2b3c4d5e-6f7g-8h9i-0j1k-2l3m4n5o6p7q",
+  "firstName" : "Emily",
+  "lastName" : "Johnson",
+  "phoneNumber" : "+442012345678",
+  "email" : "emily.johnson@example.com",
+  "address" : "London, UK",
+  "registrationDate" : "01-06-2025",
+  "status" : "PASSIVE"
+}, {
+  "userId" : "3c4d5e6f-7g8h-9i0j-1k2l-3m4n5o6p7q8r",
+  "firstName" : "Michael",
+  "lastName" : "Williams",
+  "phoneNumber" : "+61412345678",
+  "email" : "michael.williams@example.com",
+  "address" : "Sydney, Australia",
+  "registrationDate" : "31-05-2025",
+  "status" : "SUSPENDED"
+}, {
+  "userId" : "4d5e6f7g-8h9i-0j1k-2l3m-4n5o6p7q8r9s",
+  "firstName" : "Sarah",
+  "lastName" : "Brown",
+  "phoneNumber" : "+33123456789",
+  "email" : "sarah.brown@example.com",
+  "address" : "Paris, France",
+  "registrationDate" : "30-05-2025",
+  "status" : "EXPIRED"
+}, {
+  "userId" : "5e6f7g8h-9i0j-1k2l-3m4n-5o6p7q8r9s0t",
+  "firstName" : "David",
+  "lastName" : "Jones",
+  "phoneNumber" : "+49876543210",
+  "email" : "david.jones@example.com",
+  "address" : "Berlin, Germany",
+  "registrationDate" : "29-05-2025",
+  "status" : "ACTIVE"
+}, {
+  "userId" : "6f7g8h9i-0j1k-2l3m-4n5o-6p7q8r9s0t1u",
+  "firstName" : "Jessica",
+  "lastName" : "Garcia",
+  "phoneNumber" : "+34678901234",
+  "email" : "jessica.garcia@example.com",
+  "address" : "Madrid, Spain",
+  "registrationDate" : "28-05-2025",
+  "status" : "PASSIVE"
+}, {
+  "userId" : "7g8h9i0j-1k2l-3m4n-5o6p-7q8r9s0t1u2v",
+  "firstName" : "Daniel",
+  "lastName" : "Martinez",
+  "phoneNumber" : "+393456789012",
+  "email" : "daniel.martinez@example.com",
+  "address" : "Rome, Italy",
+  "registrationDate" : "27-05-2025",
+  "status" : "SUSPENDED"
+}, {
+  "userId" : "8h9i0j1k-2l3m-4n5o-6p7q-8r9s0t1u2v3w",
+  "firstName" : "Lisa",
+  "lastName" : "Davis",
+  "phoneNumber" : "+819012345678",
+  "email" : "lisa.davis@example.com",
+  "address" : "Tokyo, Japan",
+  "registrationDate" : "26-05-2025",
+  "status" : "EXPIRED"
+}, {
+  "userId" : "9i0j1k2l-3m4n-5o6p-7q8r-9s0t1u2v3w4x",
+  "firstName" : "Robert",
+  "lastName" : "Rodriguez",
+  "phoneNumber" : "+525512345678",
+  "email" : "robert.rodriguez@example.com",
+  "address" : "Mexico City, Mexico",
+  "registrationDate" : "25-05-2025",
+  "status" : "ACTIVE"
+}, {
+  "userId" : "0j1k2l3m-4n5o-6p7q-8r9s-0t1u2v3w4x5y",
+  "firstName" : "Maria",
+  "lastName" : "Miller",
+  "phoneNumber" : "+5511987654321",
+  "email" : "maria.miller@example.com",
+  "address" : "Sao Paulo, Brazil",
+  "registrationDate" : "24-05-2025",
+  "status" : "PASSIVE"
+}, {
+  "userId" : "1k2l3m4n-5o6p-7q8r-9s0t-1u2v3w4x5y6z",
+  "firstName" : "James",
+  "lastName" : "Wilson",
+  "phoneNumber" : "+8613812345678",
+  "email" : "james.wilson@example.com",
+  "address" : "Beijing, China",
+  "registrationDate" : "23-05-2025",
+  "status" : "SUSPENDED"
+}, {
+  "userId" : "2l3m4n5o-6p7q-8r9s-0t1u-2v3w4x5y6z7a",
+  "firstName" : "Linda",
+  "lastName" : "Taylor",
+  "phoneNumber" : "+919876543210",
+  "email" : "linda.taylor@example.com",
+  "address" : "Mumbai, India",
+  "registrationDate" : "22-05-2025",
+  "status" : "EXPIRED"
+}, {
+  "userId" : "3m4n5o6p-7q8r-9s0t-1u2v-3w4x5y6z7a8b",
+  "firstName" : "William",
+  "lastName" : "Anderson",
+  "phoneNumber" : "+27123456789",
+  "email" : "william.anderson@example.com",
+  "address" : "Cape Town, South Africa",
+  "registrationDate" : "21-05-2025",
+  "status" : "ACTIVE"
+}, {
+  "userId" : "4n5o6p7q-8r9s-0t1u-2v3w-4x5y6z7a8b9c",
+  "firstName" : "Patricia",
+  "lastName" : "Thomas",
+  "phoneNumber" : "+358501234567",
+  "email" : "patricia.thomas@example.com",
+  "address" : "Helsinki, Finland",
+  "registrationDate" : "20-05-2025",
+  "status" : "PASSIVE"
+}, {
+  "userId" : "5o6p7q8r-9s0t-1u2v-3w4x-5y6z7a8b9c0d",
+  "firstName" : "Richard",
+  "lastName" : "Hernandez",
+  "phoneNumber" : "+46701234567",
+  "email" : "richard.hernandez@example.com",
+  "address" : "Stockholm, Sweden",
+  "registrationDate" : "19-05-2025",
+  "status" : "SUSPENDED"
+}, {
+  "userId" : "6p7q8r9s-0t1u-2v3w-4x5y-6z7a8b9c0d1e",
+  "firstName" : "Jennifer",
+  "lastName" : "Moore",
+  "phoneNumber" : "+31612345678",
+  "email" : "jennifer.moore@example.com",
+  "address" : "Amsterdam, Netherlands",
+  "registrationDate" : "18-05-2025",
+  "status" : "EXPIRED"
+}, {
+  "userId" : "7q8r9s0t-1u2v-3w4x-5y6z-7a8b9c0d1e2f",
+  "firstName" : "Charles",
+  "lastName" : "Martin",
+  "phoneNumber" : "+41791234567",
+  "email" : "charles.martin@example.com",
+  "address" : "Zurich, Switzerland",
+  "registrationDate" : "17-05-2025",
+  "status" : "ACTIVE"
+}, {
+  "userId" : "8r9s0t1u-2v3w-4x5y-6z7a-8b9c0d1e2f3g",
+  "firstName" : "Susan",
+  "lastName" : "Jackson",
+  "phoneNumber" : "+4523456789",
+  "email" : "susan.jackson@example.com",
+  "address" : "Copenhagen, Denmark",
+  "registrationDate" : "16-05-2025",
+  "status" : "PASSIVE"
+}, {
+  "userId" : "9s0t1u2v-3w4x-5y6z-7a8b-9c0d1e2f3g4h",
+  "firstName" : "Joseph",
+  "lastName" : "Thompson",
+  "phoneNumber" : "+4798765432",
+  "email" : "joseph.thompson@example.com",
+  "address" : "Oslo, Norway",
+  "registrationDate" : "15-05-2025",
+  "status" : "SUSPENDED"
+}, {
+  "userId" : "0t1u2v3w-4x5y-6z7a-8b9c-0d1e2f3g4h5i",
+  "firstName" : "Margaret",
+  "lastName" : "White",
+  "phoneNumber" : "+353876543210",
+  "email" : "margaret.white@example.com",
+  "address" : "Dublin, Ireland",
+  "registrationDate" : "14-05-2025",
+  "status" : "EXPIRED"
+}, {
+  "userId" : "1u2v3w4x-5y6z-7a8b-9c0d-1e2f3g4h5i6j",
+  "firstName" : "Thomas",
+  "lastName" : "Lopez",
+  "phoneNumber" : "+32456789012",
+  "email" : "thomas.lopez@example.com",
+  "address" : "Brussels, Belgium",
+  "registrationDate" : "13-05-2025",
+  "status" : "ACTIVE"
+}, {
+  "userId" : "2v3w4x5y-6z7a-8b9c-0d1e-2f3g4h5i6j7k",
+  "firstName" : "Dorothy",
+  "lastName" : "Lee",
+  "phoneNumber" : "+43123456789",
+  "email" : "dorothy.lee@example.com",
+  "address" : "Vienna, Austria",
+  "registrationDate" : "12-05-2025",
+  "status" : "PASSIVE"
+}, {
+  "userId" : "3w4x5y6z-7a8b-9c0d-1e2f-3g4h5i6j7k8l",
+  "firstName" : "Christopher",
+  "lastName" : "Gonzalez",
+  "phoneNumber" : "+48791234567",
+  "email" : "christopher.gonzalez@example.com",
+  "address" : "Warsaw, Poland",
+  "registrationDate" : "11-05-2025",
+  "status" : "SUSPENDED"
+}, {
+  "userId" : "4x5y6z7a-8b9c-0d1e-2f3g-4h5i6j7k8l9m",
+  "firstName" : "Betty",
+  "lastName" : "Harris",
+  "phoneNumber" : "+420123456789",
+  "email" : "betty.harris@example.com",
+  "address" : "Prague, Czech Republic",
+  "registrationDate" : "10-05-2025",
+  "status" : "EXPIRED"
+}, {
+  "userId" : "5y6z7a8b-9c0d-1e2f-3g4h-5i6j7k8l9m0n",
+  "firstName" : "Matthew",
+  "lastName" : "Clark",
+  "phoneNumber" : "+3612345678",
+  "email" : "matthew.clark@example.com",
+  "address" : "Budapest, Hungary",
+  "registrationDate" : "09-05-2025",
+  "status" : "ACTIVE"
+}, {
+  "userId" : "6z7a8b9c-0d1e-2f3g-4h5i-6j7k8l9m0n1o",
+  "firstName" : "Nancy",
+  "lastName" : "Lewis",
+  "phoneNumber" : "+306912345678",
+  "email" : "nancy.lewis@example.com",
+  "address" : "Athens, Greece",
+  "registrationDate" : "08-05-2025",
+  "status" : "PASSIVE"
+}, {
+  "userId" : "7a8b9c0d-1e2f-3g4h-5i6j-7k8l9m0n1o2p",
+  "firstName" : "Donald",
+  "lastName" : "Robinson",
+  "phoneNumber" : "+351912345678",
+  "email" : "donald.robinson@example.com",
+  "address" : "Lisbon, Portugal",
+  "registrationDate" : "07-05-2025",
+  "status" : "SUSPENDED"
+}, {
+  "userId" : "8b9c0d1e-2f3g-4h5i-6j7k-8l9m0n1o2p3q",
+  "firstName" : "Karen",
+  "lastName" : "Walker",
+  "phoneNumber" : "+34987654321",
+  "email" : "karen.walker@example.com",
+  "address" : "Barcelona, Spain",
+  "registrationDate" : "06-05-2025",
+  "status" : "EXPIRED"
+}, {
+  "userId" : "9c0d1e2f-3g4h-5i6j-7k8l-9m0n1o2p3q4r",
+  "firstName" : "Paul",
+  "lastName" : "Hall",
+  "phoneNumber" : "+61398765432",
+  "email" : "paul.hall@example.com",
+  "address" : "Melbourne, Australia",
+  "registrationDate" : "05-05-2025",
+  "status" : "ACTIVE"
+}, {
+  "userId" : "0d1e2f3g-4h5i-6j7k-8l9m-0n1o2p3q4r5s",
+  "firstName" : "Sandra",
+  "lastName" : "Allen",
+  "phoneNumber" : "+64212345678",
+  "email" : "sandra.allen@example.com",
+  "address" : "Auckland, New Zealand",
+  "registrationDate" : "04-05-2025",
+  "status" : "PASSIVE"
+}, {
+  "userId" : "1e2f3g4h-5i6j-7k8l-9m0n-1o2p3q4r5s6t",
+  "firstName" : "Mark",
+  "lastName" : "Young",
+  "phoneNumber" : "+82212345678",
+  "email" : "mark.young@example.com",
+  "address" : "Seoul, South Korea",
+  "registrationDate" : "03-05-2025",
+  "status" : "SUSPENDED"
+}, {
+  "userId" : "2f3g4h5i-6j7k-8l9m-0n1o-2p3q4r5s6t7u",
+  "firstName" : "Donna",
+  "lastName" : "King",
+  "phoneNumber" : "+6561234567",
+  "email" : "donna.king@example.com",
+  "address" : "Singapore",
+  "registrationDate" : "02-05-2025",
+  "status" : "EXPIRED"
+}, {
+  "userId" : "3g4h5i6j-7k8l-9m0n-1o2p-3q4r5s6t7u8v",
+  "firstName" : "Steven",
+  "lastName" : "Wright",
+  "phoneNumber" : "+60312345678",
+  "email" : "steven.wright@example.com",
+  "address" : "Kuala Lumpur, Malaysia",
+  "registrationDate" : "01-05-2025",
+  "status" : "ACTIVE"
+}, {
+  "userId" : "4h5i6j7k-8l9m-0n1o-2p3q-4r5s6t7u8v9w",
+  "firstName" : "Carol",
+  "lastName" : "Scott",
+  "phoneNumber" : "+6621234567",
+  "email" : "carol.scott@example.com",
+  "address" : "Bangkok, Thailand",
+  "registrationDate" : "30-04-2025",
+  "status" : "PASSIVE"
+}, {
+  "userId" : "5i6j7k8l-9m0n-1o2p-3q4r-5s6t7u8v9w0x",
+  "firstName" : "Andrew",
+  "lastName" : "Green",
+  "phoneNumber" : "+971501234567",
+  "email" : "andrew.green@example.com",
+  "address" : "Dubai, UAE",
+  "registrationDate" : "29-04-2025",
+  "status" : "SUSPENDED"
+}, {
+  "userId" : "6j7k8l9m-0n1o-2p3q-4r5s-6t7u8v9w0x1y",
+  "firstName" : "Rebecca",
+  "lastName" : "Baker",
+  "phoneNumber" : "+966501234567",
+  "email" : "rebecca.baker@example.com",
+  "address" : "Riyadh, Saudi Arabia",
+  "registrationDate" : "28-04-2025",
+  "status" : "EXPIRED"
+}, {
+  "userId" : "7k8l9m0n-1o2p-3q4r-5s6t-7u8v9w0x1y2z",
+  "firstName" : "Edward",
+  "lastName" : "Adams",
+  "phoneNumber" : "+201012345678",
+  "email" : "edward.adams@example.com",
+  "address" : "Cairo, Egypt",
+  "registrationDate" : "27-04-2025",
+  "status" : "ACTIVE"
+}, {
+  "userId" : "8l9m0n1o-2p3q-4r5s-6t7u-8v9w0x1y2z3a",
+  "firstName" : "Sharon",
+  "lastName" : "Nelson",
+  "phoneNumber" : "+27111234567",
+  "email" : "sharon.nelson@example.com",
+  "address" : "Johannesburg, South Africa",
+  "registrationDate" : "26-04-2025",
+  "status" : "PASSIVE"
+}, {
+  "userId" : "9m0n1o2p-3q4r-5s6t-7u8v-9w0x1y2z3a4b",
+  "firstName" : "Brian",
+  "lastName" : "Hill",
+  "phoneNumber" : "+5215512345678",
+  "email" : "brian.hill@example.com",
+  "address" : "Guadalajara, Mexico",
+  "registrationDate" : "25-04-2025",
+  "status" : "SUSPENDED"
+}, {
+  "userId" : "0n1o2p3q-4r5s-6t7u-8v9w-0x1y2z3a4b5c",
+  "firstName" : "Michelle",
+  "lastName" : "Ramirez",
+  "phoneNumber" : "+5491151234567",
+  "email" : "michelle.ramirez@example.com",
+  "address" : "Buenos Aires, Argentina",
+  "registrationDate" : "24-04-2025",
+  "status" : "EXPIRED"
+}, {
+  "userId" : "1o2p3q4r-5s6t-7u8v-9w0x-1y2z3a4b5c6d",
+  "firstName" : "Kevin",
+  "lastName" : "Campbell",
+  "phoneNumber" : "+56991234567",
+  "email" : "kevin.campbell@example.com",
+  "address" : "Santiago, Chile",
+  "registrationDate" : "23-04-2025",
+  "status" : "ACTIVE"
+}, {
+  "userId" : "2p3q4r5s-6t7u-8v9w-0x1y-2z3a4b5c6d7e",
+  "firstName" : "Laura",
+  "lastName" : "Mitchell",
+  "phoneNumber" : "+51123456789",
+  "email" : "laura.mitchell@example.com",
+  "address" : "Lima, Peru",
+  "registrationDate" : "22-04-2025",
+  "status" : "PASSIVE"
+}, {
+  "userId" : "3q4r5s6t-7u8v-9w0x-1y2z-3a4b5c6d7e8f",
+  "firstName" : "Jason",
+  "lastName" : "Roberts",
+  "phoneNumber" : "+573012345678",
+  "email" : "jason.roberts@example.com",
+  "address" : "Bogota, Colombia",
+  "registrationDate" : "21-04-2025",
+  "status" : "SUSPENDED"
+}, {
+  "userId" : "4r5s6t7u-8v9w-0x1y-2z3a-4b5c6d7e8f9g",
+  "firstName" : "Deborah",
+  "lastName" : "Carter",
+  "phoneNumber" : "+582123456789",
+  "email" : "deborah.carter@example.com",
+  "address" : "Caracas, Venezuela",
+  "registrationDate" : "20-04-2025",
+  "status" : "EXPIRED"
+}, {
+  "userId" : "5s6t7u8v-9w0x-1y2z-3a4b-5c6d7e8f9g0h",
+  "firstName" : "Ronald",
+  "lastName" : "Phillips",
+  "phoneNumber" : "+5921234567",
+  "email" : "ronald.phillips@example.com",
+  "address" : "Georgetown, Guyana",
+  "registrationDate" : "19-04-2025",
+  "status" : "ACTIVE"
+}, {
+  "userId" : "6t7u8v9w-0x1y-2z3a-4b5c-6d7e8f9g0h1i",
+  "firstName" : "Shirley",
+  "lastName" : "Evans",
+  "phoneNumber" : "+595212345678",
+  "email" : "shirley.evans@example.com",
+  "address" : "Asuncion, Paraguay",
+  "registrationDate" : "18-04-2025",
+  "status" : "PASSIVE"
+}, {
+  "userId" : "7u8v9w0x-1y2z-3a4b-5c6d-7e8f9g0h1i2j",
+  "firstName" : "Gary",
+  "lastName" : "Turner",
+  "phoneNumber" : "+59891234567",
+  "email" : "gary.turner@example.com",
+  "address" : "Montevideo, Uruguay",
+  "registrationDate" : "17-04-2025",
+  "status" : "SUSPENDED"
+}, {
+  "userId" : "8v9w0x1y-2z3a-4b5c-6d7e-8f9g0h1i2j3k",
+  "firstName" : "Cynthia",
+  "lastName" : "Parker",
+  "phoneNumber" : "+50612345678",
+  "email" : "cynthia.parker@example.com",
+  "address" : "San Jose, Costa Rica",
+  "registrationDate" : "16-04-2025",
+  "status" : "EXPIRED"
+}, {
+  "userId" : "9w0x1y2z-3a4b-5c6d-7e8f-9g0h1i2j3k4l",
+  "firstName" : "Timothy",
+  "lastName" : "Collins",
+  "phoneNumber" : "+5071234567",
+  "email" : "timothy.collins@example.com",
+  "address" : "Panama City, Panama",
+  "registrationDate" : "15-04-2025",
+  "status" : "ACTIVE"
+}, {
+  "userId" : "0x1y2z3a-4b5c-6d7e-8f9g-0h1i2j3k4l5m",
+  "firstName" : "Angela",
+  "lastName" : "Edwards",
+  "phoneNumber" : "+50312345678",
+  "email" : "angela.edwards@example.com",
+  "address" : "San Salvador, El Salvador",
+  "registrationDate" : "14-04-2025",
+  "status" : "PASSIVE"
+}, {
+  "userId" : "1y2z3a4b-5c6d-7e8f-9g0h-1i2j3k4l5m6n",
+  "firstName" : "Jeffrey",
+  "lastName" : "Stewart",
+  "phoneNumber" : "+50212345678",
+  "email" : "jeffrey.stewart@example.com",
+  "address" : "Guatemala City, Guatemala",
+  "registrationDate" : "13-04-2025",
+  "status" : "SUSPENDED"
+}, {
+  "userId" : "2z3a4b5c-6d7e-8f9g-0h1i-2j3k4l5m6n7o",
+  "firstName" : "Melissa",
+  "lastName" : "Flores",
+  "phoneNumber" : "+50412345678",
+  "email" : "melissa.flores@example.com",
+  "address" : "Tegucigalpa, Honduras",
+  "registrationDate" : "12-04-2025",
+  "status" : "EXPIRED"
+}, {
+  "userId" : "3a4b5c6d-7e8f-9g0h-1i2j-3k4l5m6n7o8p",
+  "firstName" : "Ryan",
+  "lastName" : "Morris",
+  "phoneNumber" : "+50512345678",
+  "email" : "ryan.morris@example.com",
+  "address" : "Managua, Nicaragua",
+  "registrationDate" : "11-04-2025",
+  "status" : "ACTIVE"
+}, {
+  "userId" : "4b5c6d7e-8f9g-0h1i-2j3k-4l5m6n7o8p9q",
+  "firstName" : "Amanda",
+  "lastName" : "Nguyen",
+  "phoneNumber" : "+8562021234567",
+  "email" : "amanda.nguyen@example.com",
+  "address" : "Vientiane, Laos",
+  "registrationDate" : "10-04-2025",
+  "status" : "PASSIVE"
+}, {
+  "userId" : "5c6d7e8f-9g0h-1i2j-3k4l-5m6n7o8p9q0r",
+  "firstName" : "Jacob",
+  "lastName" : "Murphy",
+  "phoneNumber" : "+85512345678",
+  "email" : "jacob.murphy@example.com",
+  "address" : "Phnom Penh, Cambodia",
+  "registrationDate" : "09-04-2025",
+  "status" : "SUSPENDED"
+}, {
+  "userId" : "6d7e8f9g-0h1i-2j3k-4l5m-6n7o8p9q0r1s",
+  "firstName" : "Stephanie",
+  "lastName" : "Rivera",
+  "phoneNumber" : "+9512345678",
+  "email" : "stephanie.rivera@example.com",
+  "address" : "Yangon, Myanmar",
+  "registrationDate" : "08-04-2025",
+  "status" : "EXPIRED"
+}, {
+  "userId" : "7e8f9g0h-1i2j-3k4l-5m6n-7o8p9q0r1s2t",
+  "firstName" : "Nicholas",
+  "lastName" : "Cook",
+  "phoneNumber" : "+977123456789",
+  "email" : "nicholas.cook@example.com",
+  "address" : "Kathmandu, Nepal",
+  "registrationDate" : "07-04-2025",
+  "status" : "ACTIVE"
+}, {
+  "userId" : "8f9g0h1i-2j3k-4l5m-6n7o-8p9q0r1s2t3u",
+  "firstName" : "Ruth",
+  "lastName" : "Rogers",
+  "phoneNumber" : "+8801912345678",
+  "email" : "ruth.rogers@example.com",
+  "address" : "Dhaka, Bangladesh",
+  "registrationDate" : "06-04-2025",
+  "status" : "PASSIVE"
+}, {
+  "userId" : "9g0h1i2j-3k4l-5m6n-7o8p-9q0r1s2t3u4v",
+  "firstName" : "Eric",
+  "lastName" : "Peterson",
+  "phoneNumber" : "+94771234567",
+  "email" : "eric.peterson@example.com",
+  "address" : "Colombo, Sri Lanka",
+  "registrationDate" : "05-04-2025",
+  "status" : "SUSPENDED"
+}, {
+  "userId" : "4e444aaf-5faa-4e81-8142-3659edd89645",
+  "firstName" : "Yunus Emre",
+  "lastName" : "Cagan",
+  "phoneNumber" : "+905456667595",
+  "email" : "yunusemre.cagan@example.com",
+  "address" : "Istanbul, Turkiye",
+  "registrationDate" : "02-06-2025",
+  "status" : "PASSIVE"
+}, {
+  "userId" : "3a43e61c-df58-488e-bf93-c59b3c760e46",
+  "firstName" : "Omer",
+  "lastName" : "Avci",
+  "phoneNumber" : "+905654578898",
+  "email" : "omeravci@example.com",
+  "address" : "Balikesir, Turkiye",
+  "registrationDate" : "02-06-2025",
+  "status" : "ACTIVE"
+} ]

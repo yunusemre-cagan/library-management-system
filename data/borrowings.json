@@ -1,0 +1,17 @@
+[ {
+  "recordId" : "2aa38d98-df15-4145-ba09-8c0f8087d7c1",
+  "bookIsbn" : "9780141439600",
+  "userId" : "5e2092be-f387-408a-b716-073dad5fb914",
+  "borrowDate" : "2025-06-02",
+  "dueDate" : "2025-07-02",
+  "returnDate" : "2025-06-02",
+  "status" : "RETURNED"
+}, {
+  "recordId" : "95e75d71-7f9d-481e-91d5-1b819231e00a",
+  "bookIsbn" : "9780062315007",
+  "userId" : "3a43e61c-df58-488e-bf93-c59b3c760e46",
+  "borrowDate" : "2025-06-02",
+  "dueDate" : "2025-08-09",
+  "returnDate" : "2025-06-02",
+  "status" : "RETURNED"
+} ]
