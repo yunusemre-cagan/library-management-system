@@ -42,35 +42,43 @@ The system currently supports the following functionalities:
 
 The project follows a standard Gradle Java project structure:
 
-.
-├── data/ # Directory for JSON data files (books.json, users.json, borrowings.json)
-├── gradle/
-│ └── wrapper/
-├── src/
-│ ├── main/
-│ │ ├── java/
-│ │ │ └── org/example/
-│ │ │ ├── Main.java # Main application class with console UI
-│ │ │ ├── model/ # Data model classes (POJOs)
-│ │ │ │ ├── Book.java
-│ │ │ │ ├── User.java
-│ │ │ │ ├── BorrowingRecord.java
-│ │ │ │ └── enums/
-│ │ │ │ ├── BorrowingStatus.java
-│ │ │ │ └── MembershipStatus.java
-│ │ │ ├── service/ # Service layer classes for business logic
-│ │ │ │ ├── BookService.java
-│ │ │ │ ├── UserService.java
-│ │ │ │ └── BorrowingService.java
-│ │ │ └── util/ # Utility classes
-│ │ │ └── JsonUtil.java
-│ │ └── resources/ # (Currently unused, for non-Java resources)
-│ └── test/ # (For unit/integration tests - not implemented in this phase)
-│ └── java/
-├── build.gradle # Gradle build script
-├── gradlew # Gradle wrapper script (Linux/macOS)
-├── gradlew.bat # Gradle wrapper script (Windows)
-└── settings.gradle # Gradle settings file
+*   `.` (Project Root)
+    *   `data/`
+        *   `books.json`
+        *   `users.json`
+        *   `borrowings.json`
+    *   `gradle/`
+        *   `wrapper/`
+            *   `gradle-wrapper.jar`
+            *   `gradle-wrapper.properties`
+    *   `src/`
+        *   `main/`
+            *   `java/`
+                *   `org/example/`
+                    *   `Main.java`         // Main application class with console UI
+                    *   `model/`            // Data model classes (POJOs)
+                        *   `Book.java`
+                        *   `User.java`
+                        *   `BorrowingRecord.java`
+                        *   `enums/`
+                            *   `BorrowingStatus.java`
+                            *   `MembershipStatus.java`
+                    *   `service/`          // Service layer classes for business logic
+                        *   `BookService.java`
+                        *   `UserService.java`
+                        *   `BorrowingService.java`
+                    *   `util/`             // Utility classes
+                        *   `JsonUtil.java`
+            *   `resources/`        // (Currently unused, for non-Java resources like config files)
+        *   `test/`                 // (For unit/integration tests - not implemented in this phase)
+            *   `java/`
+    *   `build.gradle`              // Gradle build script
+    *   `gradlew`                   // Gradle wrapper script (Linux/macOS)
+    *   `gradlew.bat`               // Gradle wrapper script (Windows)
+    *   `settings.gradle`           // Gradle settings file
+    *   `.gitignore`                // Specifies intentionally untracked files that Git should ignore
+    *   `README.md`                 // This file
+      
 ## Getting Started
 
 ### Prerequisites
